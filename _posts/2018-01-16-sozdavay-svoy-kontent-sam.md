@@ -1,0 +1,11 @@
+---
+type: Video
+video_id: jFUSaHja1AQ
+categories:
+  - kak-sozdat-moshchnoe-soobshchestvo-postroit-lichnyy-brend
+date: 2018-01-16
+description: 
+title: Создавай свой контент сам
+---
+
+Почему важно делать контент для паблика и рассылки самому, а не нанимать копирайтера, даже если ты фанат делегирования
