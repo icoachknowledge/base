@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - klientam
+tags:
+  - Партнёрам
 date: 2018-03-05
 description: 
 title: Что такое iCoach и чем мы занимаемся

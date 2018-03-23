@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: JGr4eCR0x9M
-categories:
-  - dovedenie-do-pokupki-i-otdel-prodazh
+tags:
+  - Отдел продаж
 date: 2018-01-16
 description: 
 title: Как вести клиентов в Trello

@@ -2,8 +2,8 @@
 title: Какие бывают варианты условий продвижения
 type: Video
 video_id: g4kIWDd9LFU
-categories:
-  - partnerstvo
+tags:
+  - Партнёрство
 date: 2018-01-16
 description: 
 ---

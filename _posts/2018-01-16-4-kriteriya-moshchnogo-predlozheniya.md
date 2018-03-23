@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - chto-predlagat-klientam
+tags:
+  - Что предлагать клиентам
 date: 2018-01-16
 description: 
 title: 4 критерия мощного предложения

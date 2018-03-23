@@ -1,10 +1,11 @@
 ---
 type: Document
-categories:
-  - kak-ustroen-marketing
+tags:
+  - Как устроен маркетинг
 date: 2018-03-16
 description: 
 title: Зачем тренеру нужно знать что такое Life Time Value
+cover: assets/images/summit.jpg
 ---
 Некоторым коучам, которые приходят ко мне с просьбой их продвигать, я сразу отказываю. Почему?
 

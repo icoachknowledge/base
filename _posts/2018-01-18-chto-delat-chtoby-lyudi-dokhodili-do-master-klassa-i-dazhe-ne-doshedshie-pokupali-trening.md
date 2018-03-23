@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: 9NDnBzEuJyY
-categories:
-  - dovedenie-do-pokupki-i-otdel-prodazh
+tags:
+  - Отдел продаж
 date: 2018-01-16
 description: 
 title: Что делать чтобы люди доходили до мастер-класса, и даже не дошедшие покупали тренинг

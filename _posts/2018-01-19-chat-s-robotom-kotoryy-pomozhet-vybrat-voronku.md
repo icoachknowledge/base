@@ -1,8 +1,8 @@
 ---
 title: Чат с роботом, который поможет выбрать воронку
 type: Document
-categories:
-  - partnerstvo
+tags:
+  - Партнёрство
 date: 2018-01-16
 description: 
 ---

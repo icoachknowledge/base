@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - kak-ustroen-marketing
+tags:
+  - Как устроен маркетинг
 date: 2018-01-16
 description: 
 title: Как поставить продукту цену

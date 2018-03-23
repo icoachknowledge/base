@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - klientam
+tags:
+  - Партнёрам
 date: 2018-01-16
 description: 
 title: Отличия продающего вебинара от контентного, не зная которые ты теряешь деньги

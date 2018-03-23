@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: NL5l3q5JaKY
-categories:
-  - dovedenie-do-pokupki-i-otdel-prodazh
+tags:
+  - Отдел продаж
 date: 2018-01-16
 description: 
 title: Как быстро подключить телефонию для записи разговоров и дешёвых звонков по России

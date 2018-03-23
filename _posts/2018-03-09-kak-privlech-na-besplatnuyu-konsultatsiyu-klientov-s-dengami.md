@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - kak-sdelat-legkiy-vkhod-v-voronku-prodazh
+tags:
+  - Воронка продаж
 date: 2018-03-09
 description: 
 title: Как привлечь на бесплатную консультацию клиентов с деньгами

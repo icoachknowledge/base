@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - keysy
+tags:
+  - Кейсы
 date: 2018-01-16
 description: 
 title: КЕЙС - Как мы продвигали Михаила Кокорина

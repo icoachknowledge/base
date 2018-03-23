@@ -2,8 +2,8 @@
 title: Сначала упаковка, потом продукт
 type: Video
 video_id: jJKFq23HKNA
-categories:
-  - partnerstvo
+tags:
+  - Партнёрство
 date: 2018-01-16
 description: 
 ---

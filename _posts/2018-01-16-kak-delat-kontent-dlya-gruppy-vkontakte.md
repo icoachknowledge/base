@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: TfQ0Z6lNVgI
-categories:
-  - kak-sozdat-moshchnoe-soobshchestvo-postroit-lichnyy-brend
+tags:
+  - Мощное сообщество и личный бренд
 date: 2018-01-16
 description: 
 title: Как делать контент для группы ВКонтакте

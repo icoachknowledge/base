@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - kak-dokazat-svoyu-ekspertnost
+tags:
+  - Как доказать свою экспертность
 date: 2018-01-16
 description: 
 title: Структура отзыва (отлично подходит для видео)

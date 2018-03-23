@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: AJIvqpGqVWE
-categories:
-  - kak-prodavat-na-konsultatsiyakh-i-vebinarakh
+tags:
+  - Продажа на консультации и вебинаре
 date: 2018-01-16
 description: 
 title: Внутреннее состояние тренера — Как снять зажигательное видео или провести энергичный вебинар

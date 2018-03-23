@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: XREjfUCflEs
-categories:
-  - chto-predlagat-klientam
+tags:
+  - Что предлагать клиентам
 date: 2018-01-16
 description: 
 title: Слабое место 90 процентов психологов

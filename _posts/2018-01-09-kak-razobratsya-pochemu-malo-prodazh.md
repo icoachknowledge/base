@@ -1,8 +1,8 @@
 ---
 title: Как разобраться, почему мало продаж
 type: Document
-categories:
-  - dovedenie-do-pokupki-i-otdel-prodazh
+tags:
+  - Отдел продаж
 date: 2018-01-16
 description: 
 ---

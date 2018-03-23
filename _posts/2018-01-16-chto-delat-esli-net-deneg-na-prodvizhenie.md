@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - pervye-shagi-dlya-novichkov
+tags:
+  - Первые шаги для новичков
 date: 2018-01-16
 description: 
 title: Что делать если нет денег на продвижение

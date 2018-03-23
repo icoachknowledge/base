@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: XQyGrQfHhNo
-categories:
-  - pervye-shagi-dlya-novichkov
+tags:
+  - Первые шаги для новичков
 date: 2018-01-16
 description: 
 title: Как создать поток клиентов

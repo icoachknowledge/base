@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - kak-sdelat-legkiy-vkhod-v-voronku-prodazh
+tags:
+  - Воронка продаж
 date: 2018-01-16
 description: 
 title: Как сформулировать ценность бесплатной консультации

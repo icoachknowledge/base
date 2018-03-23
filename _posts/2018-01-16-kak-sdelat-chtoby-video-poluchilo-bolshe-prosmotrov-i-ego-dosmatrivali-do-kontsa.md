@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - kak-sozdat-moshchnoe-soobshchestvo-postroit-lichnyy-brend
+tags:
+  - Мощное сообщество и личный бренд
 date: 2018-01-16
 description: 
 title: Как сделать чтобы видео получило больше просмотров и его досматривали до конца

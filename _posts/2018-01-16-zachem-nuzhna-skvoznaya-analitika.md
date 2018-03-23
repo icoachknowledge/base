@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - gde-brat-trafik
+tags:
+  - Трафик
 date: 2018-01-16
 description: 
 title: Зачем нужна сквозная аналитика

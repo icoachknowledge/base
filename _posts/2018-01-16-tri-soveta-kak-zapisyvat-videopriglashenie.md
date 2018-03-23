@@ -1,7 +1,7 @@
 ---
 type: Document
-categories:
-  - vse-o-videopriglashenii
+tags:
+  - Видеоприглашение
 date: 2018-01-16
 description: 
 title: Три совета, как записывать видеоприглашение

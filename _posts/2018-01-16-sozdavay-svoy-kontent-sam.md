@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: jFUSaHja1AQ
-categories:
-  - kak-sozdat-moshchnoe-soobshchestvo-postroit-lichnyy-brend
+tags:
+  - Мощное сообщество и личный бренд
 date: 2018-01-16
 description: 
 title: Создавай свой контент сам

@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: a33PlnjCCM8
-categories:
-  - vse-o-videopriglashenii
+tags:
+  - Видеоприглашение
 date: 2018-01-16
 description: 
 title: Три важных совета по записи видео

@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: GvFMREXpYao
-categories:
-  - vse-o-videopriglashenii
+tags:
+  - Видеоприглашение
 date: 2018-01-16
 description: 
 title: Зачем нужен петличный микрофон

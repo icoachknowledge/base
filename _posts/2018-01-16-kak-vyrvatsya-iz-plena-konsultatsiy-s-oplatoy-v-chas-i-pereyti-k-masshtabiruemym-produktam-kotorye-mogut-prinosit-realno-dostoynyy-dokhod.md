@@ -1,8 +1,8 @@
 ---
 type: Video
 video_id: O3N9INRAqqU
-categories:
-  - chto-predlagat-klientam
+tags:
+  - Что предлагать клиентам
 date: 2018-01-16
 description: 
 title: Как вырваться из плена консультаций с оплатой «в час»
