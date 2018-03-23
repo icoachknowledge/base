@@ -30,11 +30,11 @@ author: ghost
 <p>In your theme, you could then look for private tags conditionally and give them special formatting:</p>
 {% raw %}
 <pre><code class="nohighlight">{{#post}}
-    {{#has tag=&quot;#video&quot;}}
-        ...markup for a nice big video post layout...
-    {{else}}
-        ...regular markup for a post...
-    {{/has}}
+  {{#has tag=&quot;#video&quot;}}
+    ...markup for a nice big video post layout...
+  {{else}}
+    ...regular markup for a post...
+  {{/has}}
 {{/post}}
 </code></pre>
 <p>You can find documentation for theme development techniques like this and many more over on Ghost's extensive <a href="https://themes.ghost.org/">theme documentation</a>.</p>

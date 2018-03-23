@@ -128,11 +128,11 @@ author: john
 
 <p>Code blocks can also be inserted with the highlight tag as below:</p>
 <pre>
-    {% raw %}
-    {% highlight language-x %}
-    # some code
-    {% endhighlight %}
-    {% endraw %}
+  {% raw %}
+  {% highlight language-x %}
+  # some code
+  {% endhighlight %}
+  {% endraw %}
 </pre>
 
 <p>More information about code highlighting in jekyll can be found  <a href="https://jekyllrb.com/docs/templates/#code-snippet-highlighting">in Jekyll documentation</a>.</p>
@@ -142,9 +142,9 @@ author: john
 {% highlight css %}
 /* css code sample */
 #container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
 }
 {% endhighlight %}
 
@@ -156,11 +156,11 @@ $.ajax({
   url: 'backend.php',
   data: "q="+myform.serialize(),
   success: function(data){
-    // on success use return data here
+  // on success use return data here
   },
   error: function(xhr, type, exception) {
-    // if ajax fails display error alert
-    alert("ajax error response type "+type);
+  // if ajax fails display error alert
+  alert("ajax error response type "+type);
   }
 });
 {% endhighlight %}
@@ -179,12 +179,12 @@ import Foundation
   var age:  Int!
 
   init(name: String, age: Int) {
-    /* /* ... */ */
+  /* /* ... */ */
   }
 
   // Return a descriptive string for this person
   func description(offset: Int = 0) -> String {
-    return "\(name) is \(age + offset) years old"
+  return "\(name) is \(age + offset) years old"
   }
 }
 </code></pre>
@@ -375,14 +375,14 @@ The <u>u element</u> example</p>
 <p><div data-height="268" data-theme-id="0" data-slug-hash="bcqhe" data-default-tab="js" data-user="rglazebrook" class='codepen'></p>
 
 <pre><code>var c = new Sketch.create({autoclear: false}),
-    bigCircle = 50,
-    littleCircle = 5,
-    // The velocity value determines how much to move the spinner head (in radians).
-    velocity = 0.105,
-    hue = 0,
-    // The alpha value below determines the length of the spinner&#39;s tail.
-    bg = &#39;rgba(40,40,40,.075)&#39;;
-    Spinner = function() {};
+  bigCircle = 50,
+  littleCircle = 5,
+  // The velocity value determines how much to move the spinner head (in radians).
+  velocity = 0.105,
+  hue = 0,
+  // The alpha value below determines the length of the spinner&#39;s tail.
+  bg = &#39;rgba(40,40,40,.075)&#39;;
+  Spinner = function() {};
 
 Spinner.prototype.setup = function() {
   this.x = c.width / 2;
