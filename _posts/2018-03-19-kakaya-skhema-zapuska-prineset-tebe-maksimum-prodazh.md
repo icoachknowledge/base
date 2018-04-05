@@ -7,7 +7,7 @@ categories:
 date: 2018-03-19
 description: 
 title: Какая схема запуска принесёт тебе максимум продаж
-cover: assets/images/welcome.jpg
+cover: assets/images/2018-03-19-kakaya-skhema-zapuska-prineset-tebe-maksimum-prodazh.jpg
 ---
 Обычно продажа курсов и тренингов начинается с выбора схемы запуска или последовательности шагов, которые потенциальный клиент проходит перед покупкой твоего основного продукта. 
 
