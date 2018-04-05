@@ -1,11 +1,13 @@
 ---
 type: Document
+tags:
+  - Как устроен маркетинг
 categories:
   - Как устроен маркетинг
 date: 2018-03-26
 description: 
 title: Как тренеру превратить провальный запуск в успешный
-cover: assets/images/welcome.jpg
+cover: assets/images/2018-03-26-kak-treneru-prevratit-provalnyy-zapusk-v-uspeshnyy.jpg
 ---
 Бывает, что рекламная кампания оказывается не такой успешной, как ожидалось, и собрать людей на мероприятие не получилось. Что бы ты сделал в такой ситуации?
 
