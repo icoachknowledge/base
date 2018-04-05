@@ -2,9 +2,12 @@
 type: Document
 tags:
   - Воронка продаж
+categories:
+  - Воронка продаж
 date: 2018-03-09
 description: 
 title: Как привлечь на бесплатную консультацию клиентов с деньгами
+cover: /assets/images/2018-03-09-kak-privlech-na-besplatnuyu-konsultatsiyu-klientov-s-dengami.jpg
 ---
 
 Не отпугнёт ли бесплатная консультация платёжеспособную аудиторию?
