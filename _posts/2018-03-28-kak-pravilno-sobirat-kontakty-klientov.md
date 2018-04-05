@@ -1,11 +1,13 @@
 ---
 type: Document
+tags:
+  - Как сделать лёгкий вход в воронку продаж
 categories:
   - Как сделать лёгкий вход в воронку продаж
 date: 2018-03-28
 description: 
 title: Как правильно собирать контакты клиентов
-cover: assets/images/welcome.jpg
+cover: assets/images/2018-03-28-kak-pravilno-sobirat-kontakty-klientov.jpg
 ---
 Некоторые тренеры при первом контакте с человеком хотят собрать сразу все его данные: телефон, скайп, емейл, год рождения и еще 20 «нужных» полей.
 
