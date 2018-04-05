@@ -2,9 +2,12 @@
 type: Document
 tags:
   - Партнёрам
+categories:
+  - Партнёрам
 date: 2018-03-05
 description: 
 title: Что такое iCoach и чем мы занимаемся
+cover: /assets/images/2018-03-05-chto-takoe-icoach-i-chem-my-zanimaemsya.jpg
 ---
 Из этой статьи ты узнаешь, как iCoach поможет тебе пробить денежный потолок, не занимаясь поиском клиентов и изучением тонкостей маркетинга.
 
