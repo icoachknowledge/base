@@ -2,10 +2,12 @@
 type: Document
 tags:
   - Продажа на консультации и вебинаре
+categories:
+  - Продажа на консультации и вебинаре
 date: 2018-03-14
 description: 
 title: Быстрый способ выбрать тему для продающего вебинара
-cover: assets/images/bus.jpg
+cover: assets/images/2018-03-14-bystryy-sposob-vybrat-temu-dlya-prodayushchego-vebinara.jpg
 ---
 Основная трудность многих тренеров заключается в том, что они пытаются превратить продающий вебинар в неиссякаемый поток полезной информации.
 
