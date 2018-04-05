@@ -1,5 +1,7 @@
 ---
 type: Document
+tags:
+  - Воронка продаж
 categories:
   - Воронка продаж
 date: 2018-03-19
