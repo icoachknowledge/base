@@ -7,7 +7,7 @@ categories:
 date: 2018-04-05
 description: 
 title: Почему мало продаж
-cover: /assets/images/maloprodazh.jpg
+cover: /assets/images/maloprodazh-min.jpg
 ---
 
 Скорее всего ты сталкивался с ситуацией, когда реклама настроена, заявки приходят, но продаж либо мало, либо нет вообще, либо продажи идут неплохо, но хотелось бы ещё лучше.
